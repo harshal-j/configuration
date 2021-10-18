@@ -1,5 +1,5 @@
 MySql:
   Client:
-    Server: mysql
+    Server: localhost
     UserName: user
     Password: user

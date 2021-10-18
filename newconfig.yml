@@ -1,1 +1,5 @@
-Config : "rtyu"
+MySql:
+  Client:
+    Server: mysql
+    UserName: user
+    Password: user

@@ -1,6 +1,6 @@
 MySql:
   Client:
-    Server: db
+    Server: mysql
     Database: mydb
     UserName: user
     Password: user

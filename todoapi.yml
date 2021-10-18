@@ -1,0 +1,11 @@
+MySql:
+  Client:
+    Server: db
+    Database: mydb
+    UserName: user
+    Password: user
+Eureka:
+  Client:
+    ServiceUrl: http://eurekaserver:8761/eureka/
+  Instance:
+    AppName: todoapi

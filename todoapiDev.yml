@@ -5,7 +5,7 @@ MySql:
     Password: user
 Eureka:
   Client:
-    ServiceUrl: http://eurekaserver:8761/eureka/
+    ServiceUrl: http://localhost:8761/eureka/
   Instance:
     AppName: todoapi
    

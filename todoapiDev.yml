@@ -1,6 +1,7 @@
 MySql:
   Client:
     Server: localhost
+    Database: mydb
     UserName: user
     Password: user
 Eureka:
